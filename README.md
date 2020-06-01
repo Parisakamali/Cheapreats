@@ -6,4 +6,4 @@ Learning to make folder
 
 [src](./src)
 
-GET /repos/:owner/:repo/git/trees/:tree_sha
+:owner/:repo/git/trees/:tree_sha
